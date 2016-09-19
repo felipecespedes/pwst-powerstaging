@@ -1,0 +1,11 @@
+.pwst-button-danger {
+	background-color: #d9534f !important;
+	border-color: #d43f3a !important;
+	color: #fff !important;
+}
+
+.pwst-button-warning {
+	background-color: #f0ad4e !important;
+	border-color: #eea236 !important;
+	color: #fff !important;
+}
